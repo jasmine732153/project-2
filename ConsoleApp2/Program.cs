@@ -20,6 +20,7 @@ namespace ConsoleApp2
                 
             }
             Console.WriteLine(" Sum = {0}", Sum);
+            int dog = 3;
             Console.ReadLine();
 
         }
